@@ -1,0 +1,6 @@
+{
+  "name": "HP RUSAK PRO",
+  "description": "Aplikasi profesional pembelian HP rusak, pengecekan harga estimasi, direktori grade komponen, database IC/eMMC/UFS, transaksi nota kasir, stok inventori, dan laporan laba rugi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
